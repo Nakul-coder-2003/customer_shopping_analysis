@@ -146,7 +146,7 @@ Version Control	GitHub
 
 🚀 How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/Customer-Shopping-Behavior-Analysis.git
+git clone https://github.com/Nakul-coder-2003/customer_shopping_analysis?tab=readme-ov-file
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
